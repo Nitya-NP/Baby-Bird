@@ -9,3 +9,11 @@ Baby Bird Game  A simple Flappy Bird–style game built in Java (Swing). Control
 - Randomly generated walls for endless challenge
 - Scoring system to track your progress
 - Simple restart option
+
+---
+
+# How to Run
+- Clone or download this repository.
+- Open in your Java IDE (NetBeans, IntelliJ, Eclipse, etc.).
+- Compile and run the Game class.
+- Follow the instructions in the console.
